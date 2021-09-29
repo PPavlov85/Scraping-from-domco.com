@@ -3,6 +3,7 @@ import requests
 
 print("Какво търсиш?")
 product_search = input()
+print("Loading ...")
 
 
 def get_urls():
